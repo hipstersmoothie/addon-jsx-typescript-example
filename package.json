@@ -21,6 +21,6 @@
     "@types/storybook__react": "^4.0.1",
     "@types/webpack-env": "^1.13.9",
     "babel-loader": "^8.0.5",
-    "storybook-addon-jsx": "^7.0.1"
+    "storybook-addon-jsx": "^7.0.2"
   }
 }
